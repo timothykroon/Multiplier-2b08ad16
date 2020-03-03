@@ -10,5 +10,3 @@
     $uitkomst = $eersteGetal * $tweedeGetal;
 
     echo "Uw resultaat is:". $uitkomst . PHP_EOL;
-
-    ?>
